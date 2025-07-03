@@ -819,7 +819,7 @@ let galaxyAudio = null;
 
 function preloadGalaxyAudio() {
   const audioSources = [
-   "https://www.youtube.com/watch?v=GuvfF0jhlDU&list=RDGuvfF0jhlDU&start_radio=1"
+   "https://cdn.discordapp.com/attachments/1381191585923858525/1381193494655139970/Happy_Birthday_Piano_Version.mp3?ex=6846a02e&is=68454eae&hm=58f90413dda4e679aa9121f8cac84445d075bcf70d02db99cb6d1ac59a1ade45&"
   ];
 
   const randomIndex = Math.floor(Math.random() * audioSources.length);
