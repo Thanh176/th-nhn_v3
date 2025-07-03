@@ -819,7 +819,7 @@ let galaxyAudio = null;
 
 function preloadGalaxyAudio() {
   const audioSources = [
-   "AE THEM NHAC TUY NHA"
+   "https://www.youtube.com/watch?v=GuvfF0jhlDU&list=RDGuvfF0jhlDU&start_radio=1"
   ];
 
   const randomIndex = Math.floor(Math.random() * audioSources.length);
